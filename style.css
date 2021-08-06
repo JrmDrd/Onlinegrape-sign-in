@@ -1,3 +1,6 @@
 .button-primary{
   background-color: red;
 }
+#okta-sign-in {
+  width: 600px;
+}
